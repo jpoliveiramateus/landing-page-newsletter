@@ -1,1 +1,1 @@
-# Landing Page inpirada em uma nova versão da newsletter do Filipe Deschamps :rocket:
+# Landing Page inspirada em uma nova versão da newsletter do Filipe Deschamps :rocket:
