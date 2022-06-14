@@ -4,6 +4,6 @@
 
 ![Screenshot from 2022-06-14 15-15-08](https://user-images.githubusercontent.com/99822908/173660726-47af3943-33ec-4df0-9bc0-f1fc750e5a5d.png)
 
-<center>## Versão mobile :rocket:</center>
+## Versão mobile :rocket: {style=text-align:center}
 
 ![Screenshot from 2022-06-14 15-15-32](https://user-images.githubusercontent.com/99822908/173660778-11cbf7f9-df47-4cef-b2e5-fddf0606b5dc.png)
